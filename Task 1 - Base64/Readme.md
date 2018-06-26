@@ -11,4 +11,8 @@ Create an online text to base64 convertor.
 
 ## Time
 
-1 week
+**Duration**: 1 week
+
+**From**: 26-06-2018
+
+**To**: 03-07-2018
